@@ -57,15 +57,11 @@ const Footer = () => {
           <Heading size={'md'} textTransform={'uppercase'}>
             Social Media
           </Heading>
-          <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="1">
-              Youtube
-            </a>
-          </Button>
+         
          
 
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="3">
+            <a target={'black'} href="#">
               Github
             </a>
           </Button>

@@ -58,18 +58,18 @@ const Footer = () => {
             Social Media
           </Heading>
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="#">
+            <a target={'black'} href="1">
               Youtube
             </a>
           </Button>
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="#">
+            <a target={'black'} href="2">
               Instagram
             </a>
           </Button>
 
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="#">
+            <a target={'black'} href="3">
               Github
             </a>
           </Button>

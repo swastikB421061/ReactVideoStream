@@ -62,11 +62,7 @@ const Footer = () => {
               Youtube
             </a>
           </Button>
-          <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="2">
-              Instagram
-            </a>
-          </Button>
+         
 
           <Button variant={'link'} colorScheme={'white'}>
             <a target={'black'} href="3">
